@@ -1,0 +1,25 @@
+body {
+    background: url(https://static.vecteezy.com/system/resources/previews/006/873/170/original/seamless-pattern-small-triangle-on-a-white-background-for-print-wallpaper-decoration-textile-illustration-free-vector.jpg)
+      center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  input {
+    margin: 10px auto;
+    font-size: 50px;
+    width: 550px;
+    height: 60px;
+    box-shadow: 0 9px #999;
+    background-color: #e6e6fa;
+  }
+  .button:hover {
+    background-color: #fff0f5;
+  }
+  
+  .button:active {
+    background-color: #fff0f5;
+    box-shadow: 0 5px #bc8f8f;
+    transform: translateY(4px);
+  }
+  
